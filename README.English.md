@@ -1,7 +1,7 @@
-# ALLTALE Automatic Repair and Storage System
+# AzureDragon ALLTALE Automatic Repair and Storage Syste
 Pleased to meet you!I'm Richard Alctale,chief developer of the ALLTALE Automatic Repair and Storage System.
 #### Description
-The Alltale is a modern VR system that allows people to enter a virtual world and even interact with their past selves. "ALLTALE" involves VR, quantum mind computing, and data storage systems.
+Blue Dragon (Qinglonghu Smart Terminal) is a new type of computer terminal developed by the Seventh Computer Technology Federation (Sutgroup). This is a version that adopts the MIT protocol for consumers, and there may be some modifications to the Qinglonghu Smart Terminal in ALLTALE.
 
 #### Software Architecture
 Not yet decided
