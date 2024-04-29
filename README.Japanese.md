@@ -1,8 +1,8 @@
 # 特別鳴謝：アニメ映画『Hello World』の制作チーム、Nulbraich Official!
-## ALLTALE 自動修復および保管システム
+##AzureDragon ALLTALE 自動修復および保管システム
 初めまして!私は ALLTALE 自動修復および保管システムの主任開発者、Richard Alctale です。
 #### 説明
-Alltale は、人々が仮想世界に入り、過去の自分と対話することさえできる最新の VR システムです。「ALLTALE」には、VR、量子マインド コンピューティング、データ ストレージ システムが含まれています。
+Azure Dragon (Qinglong Lake Smart Terminal) は、第 7 回コンピューター科学技術協会 (Sutgroup) によって開発された新しいコンピューター ターミナルです。これは、MIT プロトコルを使用するコンシューマー向けのバージョンです。ALLTALE の Qinglong Lake スマート ターミナルからいくつかの変更がある可能性があります。 
 
 #### ソフトウェア アーキテクチャ
 まだ決定されていません
