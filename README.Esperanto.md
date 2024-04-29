@@ -1,23 +1,17 @@
-# ALLTALE Aŭtomata reparado kaj konservo
-
-
-Plezuriĝis renkonti vin! Mi estas Richard Alctale, ĉefprogramisto de la ALLTALE aŭtomata reparado kaj konservo-sistemo.
-
+# From ALLTALE Aŭtomata reparado kaj konservo
+Saluton!
 
 ### Description
-La Alltale estas modern a VR-sistemo, kiu permesas al homoj eniri virtulan mondon kaj eĉ interaga kun siaj pasintaj memoj. "ALLTALE" inkluzas VR, kvantajn mensojn komputilon kaj datumservojn.
-
+Azure Dragon (Qinglong Lake Smart Terminal) estas nova komputila terminalo evoluigita fare de la Sepa Komputika kaj Teknologia Asocio (Sutgroup) Ĉi tio estas versio por konsumantoj uzantaj la MIT-protokolon .
 
 ### Softwara arkitekturo
 Ne ankoraŭ decidis
 
 
 ### Installacio tutorialo
-1. Certigu, ke vi instalas Git sur via komputilo, a ŭ vi povas elŝalti Git- klienton, ekz. [Git]( https://git-scm.com/downloads )
-2. Elŝuti nia CLI uzante la komandon Git: 'git klonon' https://gitee.com/richard-alctale/ALLTALE.git '
-3. Malfermu la fonkoddosieron en via IDE kaj komencu skribi/eksperimenti per la kodo
+1.add Richard's QQ account:3498336023 
 
-#### Instrukcioj por uzo
+#### Instrukcioj por uzo(ALLTALE)
 
 1. Se vi havas problemojn dum operacio aŭ volas modifi la fontkodon, ni subtenas vin sendi PR. Tamen indas rimarki, ke ni eble ne tre rapide respondas al vi, bonvolu pardoni nin.
 2. Ĉiuj niaj bibliotekoj estos detale registritaj en la dosiero libs.log.Vi povas instali ilin mem, aŭ vi povas lasi nin aŭtomate instali ilin por vi dum funkciado aŭ sencimigado. Indas noti, ke ni ne povas garantii, ke la instalado estos glata. Vi povas vidi la sekvan.
@@ -32,7 +26,7 @@ Ne ankoraŭ decidis
 
 ##### Bonvenon al nia retejo (nefinita):
 Oficiala Retejo: [www.sutgroup.top](Https://www.sutgroup.top)
-Oficiala Komunumo: [www.utgroup.top](Https://www. .utgroup.top)
+Oficiala Komunumo: [www.utgroup.top](Https://www.utgroup.top)
 Se vi povas, bonvolu helpi nin kun niaj konstruservoj!
 
 #### Specialan dankon al: Gitee provizas kodajn gastigajn servojn
